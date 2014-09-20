@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>CEP-Resources</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>CEP-Resource</name>
     <description>WebJar for CEP-Resource</description>
     <url>http://webjars.org</url>
@@ -47,7 +47,7 @@
         <url>http://github.com/webjars/CEP-Resources</url>
         <connection>scm:git:https://github.com/webjars/CEP-Resources.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/CEP-Resources.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>CEP-Resources-1.0</tag>
     </scm>
     
     <build>
